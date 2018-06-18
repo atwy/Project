@@ -12,7 +12,7 @@
 if (null == session.getAttribute("name"))
 {response.sendRedirect("loginPage.jsp");}%>
 <h1>Welcome User</h1><br/>
-dfsdfsdfs
+
 <form action = "Videos.jsp">
 <input type = "submit" value = "videos"/>
 
